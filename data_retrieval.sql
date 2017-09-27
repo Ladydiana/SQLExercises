@@ -1,3 +1,6 @@
+-- @Author: Culincu Diana Cristina
+-- @Repo: https://github.com/Ladydiana/SQLExercises
+
 USE exercises;
 
 # 1.

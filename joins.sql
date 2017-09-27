@@ -1,3 +1,6 @@
+-- @Author: Culincu Diana Cristina
+-- @Repo: https://github.com/Ladydiana/SQLExercises
+
 USE exercises;
 
 # 1. Write a SQL statement to prepare a list with salesman name, customer name and their cities for the salesmen and customer who belongs to the same city.

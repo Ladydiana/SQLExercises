@@ -1,3 +1,7 @@
+-- @Author: Culincu Diana Cristina
+-- @Repo: https://github.com/Ladydiana/SQLExercises
+
+
 DROP DATABASE if exists exercises;
 CREATE DATABASE exercises;
 

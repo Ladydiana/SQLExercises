@@ -1,3 +1,7 @@
+-- @Author: Culincu Diana Cristina
+-- @Repo: https://github.com/Ladydiana/SQLExercises
+
+
 USE exercises;
 
 # 1. Write a SQL statement to find the total purchase amount of all orders. 
